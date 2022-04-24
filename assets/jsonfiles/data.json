@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "image":"1.jpg",
+        "words":"بْغَا تْفَاحَ",
+        "lang":"ar",
+        "cat":"fruits"
+    },
+    {
+        "id":2,
+        "image":"2.jpg",
+        "words":"مريض",
+        "lang":"ar",
+        "cat":"situation"
+    }
+]
