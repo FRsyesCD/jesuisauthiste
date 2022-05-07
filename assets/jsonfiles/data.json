@@ -2,6 +2,7 @@
     {
         "id":1,
         "image":"1.jpg",
+        "audio":"1.mp3",
         "words":"بْغَا تْفَاحَ",
         "lang":"ar",
         "cat":"fruits"
@@ -9,6 +10,7 @@
     {
         "id":2,
         "image":"2.jpg",
+        "audio":"2.mp3",
         "words":"مريض",
         "lang":"ar",
         "cat":"state"
